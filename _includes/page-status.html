@@ -1,0 +1,4 @@
+<div class="page-metadata">
+  <div class="metadata-summary"><span class="status-label{% if page.status == 'Vérifié' %} verified{% endif %}">{{ page.status | default: 'Brouillon' }}</span><span>Responsable : {{ page.owner | default: 'SiWeb' }}</span><span>Revue : {{ page.reviewed }}</span></div>
+  <details class="verification-details"><summary>Référence et vérification</summary><p><strong>Référence :</strong> {{ page.reference | escape }}</p><p><strong>Vérification :</strong> {{ page.verification | escape }}</p></details>
+</div>

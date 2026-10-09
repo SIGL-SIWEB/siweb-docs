@@ -1,4 +1,8 @@
-title: Documentation SIGL
-description: Référence du projet SIGL
+title: Documentation SiWeb
+description: Comprendre, développer et transmettre les applications SIGL
 theme: jekyll-theme-cayman
 baseurl: /siweb-docs
+url: https://sigl-siweb.github.io
+lang: fr
+source_repository: https://github.com/SIGL-SIWEB/local-environment
+source_branch: main

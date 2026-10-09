@@ -1,0 +1,210 @@
+[
+  {
+    "id": "commencer",
+    "title": "Commencer",
+    "pages": [
+      {
+        "title": "Commencer",
+        "path": "commencer/index.md",
+        "url": "/commencer/"
+      },
+      {
+        "title": "Vue d’ensemble du projet",
+        "path": "commencer/vue-ensemble.md",
+        "url": "/commencer/vue-ensemble.html"
+      },
+      {
+        "title": "Glossaire",
+        "path": "commencer/glossaire.md",
+        "url": "/commencer/glossaire.html"
+      },
+      {
+        "title": "Configuration et environnements",
+        "path": "developpement/configuration.md",
+        "url": "/developpement/configuration.html"
+      },
+      {
+        "title": "Démarrer le projet",
+        "path": "developpement/demarrage.md",
+        "url": "/developpement/demarrage.html"
+      },
+      {
+        "title": "Accès et authentification",
+        "path": "developpement/authentification.md",
+        "url": "/developpement/authentification.html"
+      },
+      {
+        "title": "Valider un environnement local",
+        "path": "developpement/validation-locale.md",
+        "url": "/developpement/validation-locale.html"
+      }
+    ]
+  },
+  {
+    "id": "architecture",
+    "title": "Architecture",
+    "pages": [
+      {
+        "title": "Architecture",
+        "path": "architecture/index.md",
+        "url": "/architecture/"
+      },
+      {
+        "title": "Services et dépendances",
+        "path": "architecture/services.md",
+        "url": "/architecture/services.html"
+      }
+    ]
+  },
+  {
+    "id": "services",
+    "title": "Services",
+    "pages": [
+      {
+        "title": "Services",
+        "path": "services/index.md",
+        "url": "/services/"
+      },
+      {
+        "title": "Environnement commun",
+        "path": "services/local-environment.md",
+        "url": "/services/local-environment.html"
+      },
+      {
+        "title": "Intra",
+        "path": "services/intra.md",
+        "url": "/services/intra.html"
+      },
+      {
+        "title": "Scolarité",
+        "path": "services/scolarite.md",
+        "url": "/services/scolarite.html"
+      },
+      {
+        "title": "Notes et PAE",
+        "path": "services/notes.md",
+        "url": "/services/notes.html"
+      },
+      {
+        "title": "Présences et absences",
+        "path": "services/absences.md",
+        "url": "/services/absences.html"
+      },
+      {
+        "title": "Syllabus",
+        "path": "services/syllabus.md",
+        "url": "/services/syllabus.html"
+      },
+      {
+        "title": "Stages",
+        "path": "services/stages.md",
+        "url": "/services/stages.html"
+      },
+      {
+        "title": "Yearbook",
+        "path": "services/yearbook.md",
+        "url": "/services/yearbook.html"
+      },
+      {
+        "title": "Annuaire et newsletter",
+        "path": "services/annuaire.md",
+        "url": "/services/annuaire.html"
+      },
+      {
+        "title": "Cassiopée",
+        "path": "services/cassiopee.md",
+        "url": "/services/cassiopee.html"
+      },
+      {
+        "title": "Site vitrine",
+        "path": "services/site-vitrine.md",
+        "url": "/services/site-vitrine.html"
+      }
+    ]
+  },
+  {
+    "id": "metier",
+    "title": "Parcours métier",
+    "pages": [
+      {
+        "title": "Parcours métier",
+        "path": "metier/index.md",
+        "url": "/metier/"
+      }
+    ]
+  },
+  {
+    "id": "developpement",
+    "title": "Développer",
+    "pages": [
+      {
+        "title": "Développer",
+        "path": "developpement/index.md",
+        "url": "/developpement/"
+      },
+      {
+        "title": "Contribuer au projet",
+        "path": "developpement/contribution.md",
+        "url": "/developpement/contribution.html"
+      }
+    ]
+  },
+  {
+    "id": "exploitation",
+    "title": "Livrer et exploiter",
+    "pages": [
+      {
+        "title": "Livrer et exploiter",
+        "path": "exploitation/index.md",
+        "url": "/exploitation/"
+      },
+      {
+        "title": "Dépannage",
+        "path": "exploitation/depannage.md",
+        "url": "/exploitation/depannage.html"
+      }
+    ]
+  },
+  {
+    "id": "agents",
+    "title": "Agents",
+    "pages": [
+      {
+        "title": "Guide pour les agents",
+        "path": "agents/index.md",
+        "url": "/agents/"
+      },
+      {
+        "title": "Repères dans les dépôts",
+        "path": "agents/reperes.md",
+        "url": "/agents/reperes.html"
+      },
+      {
+        "title": "Vérifier une contribution",
+        "path": "agents/verification.md",
+        "url": "/agents/verification.html"
+      }
+    ]
+  },
+  {
+    "id": "transmission",
+    "title": "Transmission",
+    "pages": [
+      {
+        "title": "Transmission",
+        "path": "transmission/index.md",
+        "url": "/transmission/"
+      },
+      {
+        "title": "Couverture documentaire",
+        "path": "transmission/couverture.md",
+        "url": "/transmission/couverture.html"
+      },
+      {
+        "title": "Maintenir et publier la documentation",
+        "path": "transmission/maintenir-documentation.md",
+        "url": "/transmission/maintenir-documentation.html"
+      }
+    ]
+  }
+]

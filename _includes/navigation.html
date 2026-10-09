@@ -1,0 +1,16 @@
+<nav class="section-navigation" aria-label="Sections de la documentation">
+  <a class="nav-home{% if page.section == 'accueil' %} selected{% endif %}" href="{{ '/' | relative_url }}"{% if page.section == 'accueil' %} aria-current="page"{% endif %}>Accueil</a>
+  {% for group in site.data.navigation %}
+    {% assign landing = group.pages | first %}
+    <div class="nav-group{% if group.id == page.section %} current-section{% endif %}">
+      <a class="nav-section" href="{{ landing.url | relative_url }}"{% if page.url == landing.url %} aria-current="page"{% endif %}>{{ group.title }}</a>
+      {% if group.id == page.section and group.pages.size > 1 %}
+        <ul>
+          {% for item in group.pages offset:1 %}
+            <li><a{% if page.url == item.url %} class="selected" aria-current="page"{% endif %} href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+  {% endfor %}
+</nav>
