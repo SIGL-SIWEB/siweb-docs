@@ -11,6 +11,8 @@ verification: "Lecture des sources ; parcours applicatif non exécuté"
 
 # Contribuer au projet
 
+Chaque changement part d'un ticket Linear et suit le [flow de travail](workflow.md), du triage à la production.
+
 ## Modifier un service
 
 Les répertoires de services sont des sous-modules : chaque service possède son historique, ses dépendances et ses vérifications. Faire la modification dans le dépôt du service, exécuter ses contrôles documentés, puis intégrer la révision voulue en mettant à jour le pointeur du sous-module dans `local-environment`. Une modification non poussée dans le dépôt du service ne peut pas être récupérée par les autres contributeurs.

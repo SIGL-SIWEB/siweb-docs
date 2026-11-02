@@ -17,6 +17,7 @@ Faire un changement dans le bon dépôt et fournir les vérifications utiles.
 ## Disponible
 
 - [Contribuer au projet](contribution.md)
+- [Flow de travail](workflow.md)
 - [Vérification par dépôt](../agents/verification.md)
 
 ## Chapitres à rédiger

@@ -16,7 +16,7 @@ Utiliser les mêmes références techniques que les développeurs. `AGENTS.md` c
 
 ## Avant de modifier
 
-1. Lire `AGENTS.md` du dépôt et les instructions applicables à son sous-dossier.
+1. Lire `AGENTS.md` du dépôt et les instructions applicables à son sous-dossier, puis le ticket Linear selon le [flow de travail](../developpement/workflow.md).
 2. Comprendre le [périmètre et les dépendances](../architecture/services.md).
 3. Identifier la [fiche du service](../services/index.md) et la révision à laquelle elle se rapporte.
 4. Lire le parcours métier, les contrats, la configuration et les limites de vérification pertinentes.

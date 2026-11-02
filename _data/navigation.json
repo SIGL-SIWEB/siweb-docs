@@ -146,6 +146,11 @@
         "title": "Contribuer au projet",
         "path": "developpement/contribution.md",
         "url": "/developpement/contribution.html"
+      },
+      {
+        "title": "Flow de travail",
+        "path": "developpement/workflow.md",
+        "url": "/developpement/workflow.html"
       }
     ]
   },

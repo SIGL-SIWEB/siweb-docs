@@ -17,6 +17,8 @@ Le dépôt racine utilise npm pour lancer les services et Docker Compose pour My
 
 Référence examinée le 9 octobre 2026 : `local-environment` à `571938d` et ses sous-modules enregistrés. Les versions de Node diffèrent entre services et workflows ; aucune version commune n'est certifiée par cette page. Vérifier le Dockerfile et le workflow du service concerné. Les commandes ci-dessous ont été rapprochées des scripts ; un démarrage complet avec configuration et connexion aux dépendances reste à valider.
 
+Avant de coder, créer son compte dans l'espace Linear SIWeb-SIGL et connecter son agent au serveur MCP Linear, comme décrit dans le [flow de travail](workflow.md).
+
 Commencer par [Configuration et environnements](configuration.md) et [Accès et authentification](authentification.md). Choisir la composition du parcours testé dans [Validation locale](validation-locale.md), puis conserver les résultats du premier essai. Le [site vitrine](../services/site-vitrine.md) possède son propre checkout et ses propres commandes.
 
 ## Installation
